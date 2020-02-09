@@ -1,1 +1,5 @@
 We had a faux-pas at https://github.com/processing/p5.js/pull/4281. In an attempt to reproduce the problem, I've created an external repository for testing
+
+( ) option 1
+( ) option 2
+( ) option 3
